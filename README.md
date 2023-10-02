@@ -4,7 +4,7 @@ Collection of all the exercises completed in the university C course in ascendin
 - IDE used: Dev-C++
 ## [Index:](https://github.com/salvlan/C-University-Course/tree/main)
 (Click on the name to view the related exercise)
-### [1. Sum of two numbers](https://github.com/salvlan/C-University-Course/blob/main/Collection/1%20-%20Sum%20of%20two%20numbers.c)
+### [1. Sum of two numbers](https://github.com/salvlan/C-University-Course/blob/main/Collection/%201%20-%20Sum%20of%20two%20numbers.c)
 ### 2. Given two numbers, I want the larger one
 ### 3. Given three numbers, I want the largest
 ### 4. Given a number between one and ten, display the multiplication table
