@@ -1,8 +1,8 @@
-# [C-University-Course](https://github.com/salvlan/Cpp-University-Course/tree/main)
+# [C-University-Course](https://github.com/salvlan/C-University-Course/tree/main)
 Collection of all the exercises completed in the university C course in ascending order of difficulty.
 - Programming language: C
 - IDE used: Dev-C++
-## [Index:](https://github.com/salvlan/Cpp-University-Course/tree/main)
+## [Index:](https://github.com/salvlan/C-University-Course/tree/main)
 (Click on the name to view the related exercise)
 ### 1. Sum of two numbers
 ### 2. Given two numbers, I want the larger one
