@@ -6,7 +6,7 @@ Collection of all the exercises completed in the university C course in ascendin
 (Click on the name to view the related exercise)
 ### [1. Sum of two numbers](https://github.com/salvlan/C-University-Course/blob/main/Collection/%201%20-%20Sum%20of%20two%20numbers.c)
 ### [2. Given two numbers, I want the larger one](https://github.com/salvlan/C-University-Course/blob/main/Collection/%202%20-%20Given%20two%20numbers%2C%20I%20want%20the%20larger%20one.c)
-### 3. Given three numbers, I want the largest
+### [3. Given three numbers, I want the largest](https://github.com/salvlan/C-University-Course/blob/main/Collection/%203%20-%20Given%20three%20numbers%2C%20I%20want%20the%20largest.c)
 ### 4. Given a number between one and ten, display the multiplication table
 ### 5. Given a number between one and twelve, display the corresponding month
 ### 6. Acquire a day, a month and a year so that it tells me the non-existent ones
