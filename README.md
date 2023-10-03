@@ -10,7 +10,7 @@ Collection of all the exercises completed in the university C course in ascendin
 ### [4. Given a number between one and ten, display the multiplication table](https://github.com/salvlan/C-University-Course/blob/main/Collection/%204%20-%20Given%20a%20number%20between%20one%20and%20ten%2C%20display%20the%20multiplication%20table.c)
 ### [5. Given a number between one and twelve, display the corresponding month](https://github.com/salvlan/C-University-Course/blob/main/Collection/%205%20-%20Given%20a%20number%20between%20one%20and%20twelve%2C%20display%20the%20corresponding%20month.c)
 ### [6. Acquire a day, a month and a year so that it tells me the non-existent ones](https://github.com/salvlan/C-University-Course/blob/main/Collection/%206%20-%20Acquire%20a%20day%2C%20a%20month%20and%20a%20year%20so%20that%20it%20tells%20me%20the%20non-existent%20ones.c)
-### 7. Product between two numbers and ask if I want to do it again, infinite times
+### [7. Product between two numbers and ask if I want to do it again, infinite times](https://github.com/salvlan/C-University-Course/blob/main/Collection/%207%20-%20Product%20between%20two%20numbers%20and%20ask%20if%20I%20want%20to%20do%20it%20again%2C%20infinite%20times.c)
 ### 8. Enter five numbers, view them and take the average
 ### 9. Displays the largest and smallest elements of the vector
 ### 10. Order the elements of the vector from smallest to largest and vice versa
