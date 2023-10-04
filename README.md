@@ -26,23 +26,23 @@ Collection of all the exercises completed in the university C course in ascendin
 ### [20. Search for a number in an ordered vector](https://github.com/salvlan/C-University-Course/blob/main/Collection/20%20-%20Search%20for%20a%20number%20in%20an%20ordered%20vector.c)
 ### [21. Search for a number in an ordered vector using dichotomous search](https://github.com/salvlan/C-University-Course/blob/main/Collection/21%20-%20Search%20for%20a%20number%20in%20an%20ordered%20vector%20using%20dichotomous%20search.c)
 ### [22. Attempts to search for a number in a vector first unordered and then using a dichotomous search](https://github.com/salvlan/C-University-Course/blob/main/Collection/22%20-%20Attempts%20to%20search%20for%20a%20number%20in%20a%20vector%20first%20unordered%20and%20then%20using%20a%20dichotomous%20search.c)
-### 23. Request for a number and calculation of the factorial
-### 24. Request for a number and calculation of the factorial via recursive function
-### 25. Loading a matrix with random numbers, displaying the matrix and diagonals
-### 26. Loading a matrix with random numbers, displaying the matrix and diagonals (with functions)
-### 27. Naval battle simulation
-### 28. Loading a string and displaying the number of characters, vowels, words and the opposite
-### 29. Using string library commands
-### 30. Example of registry using structures
-### 31. Example of a registry using structures (with functions)
-### 32. Telephone agenda via structured carriers
-### 33. Telephone directory via file
-### 34. Goods registration
-### 35. Deletion of some records of the goods file
-### 36. Restore deleted records of the goods file
-### 37. Load a matrix of divisors of ten numbers read from a text file
-### 38. Load a matrix of random numbers and write the prime numbers in a text file
-### 39. Weather file
-### 40. Load a matrix reading from file and set non-prime numbers to one
-### 41. Pupil management via file (incomplete)
-### 42. Insertion of name and number from two different text files and display
+### [23. Request for a number and calculation of the factorial](https://github.com/salvlan/C-University-Course/blob/main/Collection/23%20-%20Request%20for%20a%20number%20and%20calculation%20of%20the%20factorial.c)
+### [24. Request for a number and calculation of the factorial via recursive function](https://github.com/salvlan/C-University-Course/blob/main/Collection/24%20-%20Request%20for%20a%20number%20and%20calculation%20of%20the%20factorial%20via%20recursive%20function.c)
+### [25. Loading a matrix with random numbers, displaying the matrix and diagonals](https://github.com/salvlan/C-University-Course/blob/main/Collection/25%20-%20Loading%20a%20matrix%20with%20random%20numbers%2C%20displaying%20the%20matrix%20and%20diagonals.c)
+### [26. Loading a matrix with random numbers, displaying the matrix and diagonals (with functions)](https://github.com/salvlan/C-University-Course/blob/main/Collection/26%20-%20Loading%20a%20matrix%20with%20random%20numbers%2C%20displaying%20the%20matrix%20and%20diagonals%20(with%20functions).c)
+### [27. Naval battle simulation](https://github.com/salvlan/C-University-Course/blob/main/Collection/27%20-%20Naval%20battle%20simulation.c)
+### [28. Loading a string and displaying the number of characters, vowels, words and the opposite](https://github.com/salvlan/C-University-Course/blob/main/Collection/28%20-%20Loading%20a%20string%20and%20displaying%20the%20number%20of%20characters%2C%20vowels%2C%20words%20and%20the%20opposite.c)
+### [29. Using string library commands](https://github.com/salvlan/C-University-Course/blob/main/Collection/29%20-%20Using%20string%20library%20commands.c)
+### [30. Example of registry using structures](https://github.com/salvlan/C-University-Course/blob/main/Collection/30%20-%20Example%20of%20registry%20using%20structures.c)
+### [31. Example of a registry using structures (with functions)](https://github.com/salvlan/C-University-Course/blob/main/Collection/31%20-%20Example%20of%20a%20registry%20using%20structures%20(with%20functions).c)
+### [32. Telephone agenda via structured carriers](https://github.com/salvlan/C-University-Course/blob/main/Collection/32%20-%20Telephone%20agenda%20via%20structured%20carriers.c)
+### [33. Telephone directory via file](https://github.com/salvlan/C-University-Course/blob/main/Collection/33%20-%20Telephone%20directory%20via%20file.c)
+### [34. Goods registration](https://github.com/salvlan/C-University-Course/blob/main/Collection/34%20-%20Goods%20registration.c)
+### [35. Deletion of some records of the goods file](https://github.com/salvlan/C-University-Course/blob/main/Collection/35%20-%20Deletion%20of%20some%20records%20of%20the%20goods%20file.c)
+### [36. Restore deleted records of the goods file](https://github.com/salvlan/C-University-Course/blob/main/Collection/36%20-%20Restore%20deleted%20records%20of%20the%20goods%20file.c)
+### [37. Load a matrix of divisors of ten numbers read from a text file](https://github.com/salvlan/C-University-Course/blob/main/Collection/37%20-%20Load%20a%20matrix%20of%20divisors%20of%20ten%20numbers%20read%20from%20a%20text%20file.c)
+### [38. Load a matrix of random numbers and write the prime numbers in a text file](https://github.com/salvlan/C-University-Course/blob/main/Collection/38%20-%20Load%20a%20matrix%20of%20random%20numbers%20and%20write%20the%20prime%20numbers%20in%20a%20text%20file.c)
+### [39. Weather file](https://github.com/salvlan/C-University-Course/blob/main/Collection/39%20-%20Weather%20file.c)
+### [40. Load a matrix reading from file and set non-prime numbers to one](https://github.com/salvlan/C-University-Course/blob/main/Collection/40%20-%20Load%20a%20matrix%20reading%20from%20file%20and%20set%20non-prime%20numbers%20to%20one.c)
+### [41. Pupil management via file (incomplete)](https://github.com/salvlan/C-University-Course/blob/main/Collection/41%20-%20Pupil%20management%20via%20file%20(incomplete).c)
+### [42. Insertion of name and number from two different text files and display](https://github.com/salvlan/C-University-Course/blob/main/Collection/42%20-%20Insertion%20of%20name%20and%20number%20from%20two%20different%20text%20files%20and%20display.c)
